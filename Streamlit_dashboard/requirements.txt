@@ -1,0 +1,11 @@
+streamlit
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn
+matplotlib
+seaborn
+plotly
+wordcloud
+datasets>=2.0.0
+requests
+
